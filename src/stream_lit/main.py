@@ -12,6 +12,7 @@ st.code("[i for i in range(1,10)]")
 
 st.title("Data Display")
 st.text_input("Enter input")
+st.video("https://youtu.be/PFcrnX4i1XM?si=F85x9F7eLNCEzb2c")
 
 import pandas as pd
 
